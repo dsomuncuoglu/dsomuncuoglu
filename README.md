@@ -14,6 +14,6 @@
 <a href="https://discord.gg/DenizS#9414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DenizS#9414" height="30" width="40" /></a>
 
 <p align="left">
-<p><img align="left" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsomuncuoglu&show_icons=true&locale=en&layout=compact" alt="dsomuncuoglu" /></p>
-<p>&nbsp;<img align="left" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=dsomuncuoglu&show_icons=true&locale=en" alt="dsomuncuoglu" /></p>
+<p><img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsomuncuoglu&show_icons=true&locale=en&layout=compact" alt="dsomuncuoglu" /></p>
+<p>&nbsp;<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=dsomuncuoglu&show_icons=true&locale=en" alt="dsomuncuoglu" /></p>
 </p>
