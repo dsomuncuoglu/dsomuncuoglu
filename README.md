@@ -8,8 +8,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="left"><img width="350" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsomuncuoglu&show_icons=true&locale=en&layout=compact" alt="dsomuncuoglu" /></p>
-<p align="right"><img width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=dsomuncuoglu&show_icons=true&locale=en" alt="dsomuncuoglu" /></p>
+<p><img align="left" width="350" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsomuncuoglu&show_icons=true&locale=en&layout=compact" alt="dsomuncuoglu" />
+<img align="right" width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=dsomuncuoglu&show_icons=true&locale=en" alt="dsomuncuoglu" /></p>
 
 <p>
 <h3>Connect with me:</h3>
