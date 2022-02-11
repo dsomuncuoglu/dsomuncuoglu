@@ -14,10 +14,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dsomuncuoglu&show_icons=true&locale=en" alt="dsomuncuoglu" /></p>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+
 <a href="https://linkedin.com/in/dsomuncuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsomuncuoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/dsomuncuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsomuncuoglu" height="30" width="40" /></a>
 <a href="https://discord.gg/DenizS#9414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DenizS#9414" height="30" width="40" /></a>
-</p>
+
 
